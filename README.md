@@ -3,8 +3,8 @@
 ### 🧑‍💼 About me
 
 - 👦 My Name is Juri and I'm 22 Years old.
-- 👾 My Hobbies are Gaming, Hiking and Listening to Music.
-- 🌱 I’m currently learning Java Swing and FX.
+- 👾 My Hobbies are gaming, hiking and listening to Music.
+- 🌱 I’m currently learning Java Swing, FX and also Gatling.
 - 💼 Currently working as a Software Developer.
 
 ### 🛠️ My Tech Stack
@@ -15,7 +15,7 @@
   - `FX`
 - 🌐 `HTML` `CSS`
 - 💾 `MySQL` `OracleSQL`
-- 🔧 `IntelliJ IDEA` `MySQL Workbench` `Visual Studio Code`
+- 🔧 `IntelliJ IDEA` `MySQL Workbench` `Visual Studio Code` `Git`
 
 ---
 
@@ -31,9 +31,9 @@
 ### 🛠️ Technische Kenntnisse
 
 - 💻 `Java`
-    - `Spring Framework`
-    - `Swing`
-    - `FX`
+  - `Spring Framework`
+  - `Swing`
+  - `FX`
 - 🌐 `HTML` `CSS`
 - 💾 `MySQL` `OracleSQL`
-- 🔧 `IntelliJ IDEA` `MySQL Workbench` `Visual Studio Code`
+- 🔧 `IntelliJ IDEA` `MySQL Workbench` `Visual Studio Code` `Git`
