@@ -4,7 +4,7 @@
 
 - 👦 My Name is Juri and I'm 22 Years old.
 - 👾 My Hobbies are gaming, hiking and listening to Music.
-- 🌱 I’m currently refreshing my skills in Spring boot and JUnit.
+- 🌱 I’m currently learning C# with Windows Forms at alfatraining.
 - 💼 Currently looking for work.
 
 ### 🛠️ My Tech Stack
@@ -29,7 +29,7 @@
 
 - 👦 Mein Name ist Juri und ich bin 22 Jahre alt.
 - 👾 Meine Hobbies sind gaming, wandern und Musik hören.
-- 🌱 Aktuell arbeite ich meine Skills in Spring boot und JUnit auf.
+- 🌱 Aktuell lerne ich bei alfatraining die Programmiersprache C# im Zusammenhang mit Windows Forms.
 - 💼 Momentan bin ich arbeitssuchend.
 
 ### 🛠️ Technische Kenntnisse
