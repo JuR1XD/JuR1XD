@@ -2,9 +2,9 @@
 
 ### 🧑‍💼 About me
 
-- 👦 My Name is Juri and I'm 23 Years old.
-- 👾 My Hobbies are gaming, hiking and listening to Music.
-- 🌱 I’m currently practicing bash scripting, unix in general and repeating some Java Swing connected to Big Data.
+- 👦 My Name is Juri and I'm 24 Years old.
+- 👾 My Hobbies are gaming, bouldering, hiking and listening to Music.
+- 🌱 I am currently practicing simple Bash scripting, Unix in general, and learning new things about radio and satellites in connection with meteorology.
 - 💼 I am currently employed by the German Weather Service
 
 ### 🛠️ My Tech Stack
@@ -30,9 +30,9 @@
 
 ### 🧑‍💼 Über mich
 
-- 👦 Mein Name ist Juri und ich bin 23 Jahre alt.
-- 👾 Meine Hobbies sind gaming, wandern und Musik hören.
-- 🌱 Zurzeit übe ich mich in Bash-Skripting, Unix im Allgemeinen und wiederhole einige Java-Swing-Anwendungen im Zusammenhang mit Big Data.
+- 👦 Mein Name ist Juri und ich bin 24 Jahre alt.
+- 👾 Meine Hobbies sind gaming, bouldern, wandern und Musik hören.
+- 🌱 Zurzeit übe ich mich in einfachem Bash-Skripting, Unix im Allgemeinen und lerne derzeit neues über Funk und Satelliten in Verbindung mit der Meteorologie.
 - 💼 Derzeit arbeite ich beim Deutschen Wetterdienst.
 
 ### 🛠️ Technische Kenntnisse
